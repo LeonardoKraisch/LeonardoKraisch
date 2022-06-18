@@ -1,7 +1,7 @@
 ### Hi there!!!
 
-My name is Leonardo Augusto Kraisch and I'm a fullstack developer in training.
-
+<strong>My name is Leonardo Augusto Kraisch and I'm a fullstack developer in training.</strong>
+<div></div>
 <div align="center">
   <a href="https://github.com/LeonardoKraisch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoKraisch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

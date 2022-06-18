@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!!!
+
+######My name is Leonardo Augusto Kraisch and I'm a fullstack developer in training.
 
 <div align="center">
   <a href="https://github.com/LeonardoKraisch">
